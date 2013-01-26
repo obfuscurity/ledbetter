@@ -1,0 +1,37 @@
+GIT
+  remote: git@github.com:obfuscurity/nagiosharder.git
+  revision: 322712c25a9225e829b6fd7587dbfbc9220c117d
+  specs:
+    nagiosharder (0.5.0.rc1)
+      activesupport
+      hashie (~> 1.2.0)
+      httparty (~> 0.8.3)
+      i18n
+      nokogiri
+      rest-client (~> 1.6.1)
+      terminal-table
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activesupport (3.2.11)
+      i18n (~> 0.6)
+      multi_json (~> 1.0)
+    hashie (1.2.0)
+    httparty (0.8.3)
+      multi_json (~> 1.0)
+      multi_xml
+    i18n (0.6.1)
+    mime-types (1.19)
+    multi_json (1.5.0)
+    multi_xml (0.5.2)
+    nokogiri (1.5.6)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+    terminal-table (1.4.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nagiosharder!
