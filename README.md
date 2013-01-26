@@ -25,6 +25,18 @@ $ bundle exec ruby ledbetter.rb
 
 Optionally you can set `VERBOSE=1` to also print statistics to `stdout`.
 
+```
+$ VERBOSE=1 bundle exec ruby ledbetter.rb
+nagios.problems.all 41 1359170720
+nagios.problems.critical 27 1359170720
+nagios.problems.warning 12 1359170720
+nagios.problems.unknown 2 1359170720
+nagios.problems.servicegroups.apache 0 1359170720
+nagios.problems.servicegroups.backups 3 1359170720
+nagios.problems.servicegroups.dns 0 1359170720
+nagios.problems.servicegroups.mysql 1 1359170720
+```
+
 ## License 
 
 Ledbetter is distributed under the MIT license.
