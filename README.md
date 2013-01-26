@@ -35,6 +35,7 @@ nagios.problems.servicegroups.apache 0 1359170720
 nagios.problems.servicegroups.backups 3 1359170720
 nagios.problems.servicegroups.dns 0 1359170720
 nagios.problems.servicegroups.mysql 1 1359170720
+...
 ```
 
 ## License 
