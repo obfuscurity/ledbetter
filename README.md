@@ -23,7 +23,7 @@ $ export CARBON_URL=carbon://localhost:2003
 $ bundle exec ruby ledbetter.rb
 ```
 
-Optionally you can set `VERBOSE=1` to also print statistics to `stdout`.
+Optionally you can set `VERBOSE=1` to also print statistics to `stdout`. `CARBON_PREFIX` can also be set to override the default namespace (`nagios.problems`).
 
 ```
 $ VERBOSE=1 bundle exec ruby ledbetter.rb
