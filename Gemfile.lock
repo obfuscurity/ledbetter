@@ -1,6 +1,6 @@
 GIT
-  remote: git@github.com:obfuscurity/nagiosharder.git
-  revision: 322712c25a9225e829b6fd7587dbfbc9220c117d
+  remote: git@github.com:jnewland/nagiosharder.git
+  revision: 0b9244710eb7162614576721c4b263df6a2540c8
   specs:
     nagiosharder (0.5.0.rc1)
       activesupport
