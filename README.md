@@ -8,6 +8,7 @@ Clone the GitHub repository and use Bundler to install the gem dependencies.
 
 ```
 $ git clone https://github.com/github/ledbetter.git
+$ cd ledbetter
 $ bundle install
 ```
 
