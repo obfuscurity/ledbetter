@@ -1,6 +1,6 @@
 # Ledbetter
 
-Ledbetter is a simple script for gathering Nagios alert statistics and submitting them to Graphite.
+Ledbetter is a simple script for gathering Nagios alert statistics and submitting them to Graphite. It writes all statistics to the `nagios.problems` metrics namespace within Graphite.
 
 ## Installation
 
